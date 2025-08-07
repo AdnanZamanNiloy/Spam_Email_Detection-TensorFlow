@@ -1,4 +1,4 @@
-# 📧 Spam Email Detection using LSTM
+# 📧 Spam Email Detection 
 
 This project uses Natural Language Processing (NLP) and Deep Learning (LSTM) to classify emails as **spam** or **non-spam (ham)**. It’s built with TensorFlow and Keras, and demonstrates how to process text, tokenize data, use embedding layers, and train an LSTM model for binary classification.
 
